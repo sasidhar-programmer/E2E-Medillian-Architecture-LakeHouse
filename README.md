@@ -1,5 +1,8 @@
 # 🚀 Enterprise Medallion Lakehouse Architecture
 
+<img width="1015" height="628" alt="image" src="https://github.com/user-attachments/assets/3e1ce6d6-7ea7-463c-bdb1-d27cdfdcd93b" />
+
+
 <img width="1560" height="183" alt="image" src="https://github.com/user-attachments/assets/764550b1-e98e-4c0d-aaa2-bc5d3ad6ca97" />
 
 *Above: The Medallion Architecture DAG orchestrated via Databricks Workflows, demonstrating the fan-out (Dimensions) and fan-in (Facts) dependencies.*
